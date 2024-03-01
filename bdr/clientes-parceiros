@@ -1,0 +1,11 @@
+# Clientes Parceiros
+
+**Data:** \01/03/2024
+
+## Contexto
+O aplicativo dependerá em boa parte de parceiros com interesse no aumento do turismo no local, como hospedagens, guias turísticos, restaurantes e órgão governamental. Aqui se encontram as decisões tomadas em como será o funcionamento dessas parcerias.
+
+## Decisões
+- **Landing Page:** Para divulgação, cadastro e contato, será desenvolvida um Landing Page com todas as informações necessárias para que os interessados possam iniciar a parceria.
+- **Cadastro:** Todo parceiro terão cadastrado dados para que o turista possa encontrá-los ou entrar em contato facilmente, dados como nome, endereço, banner da empresa e serviços prestados.
+- **Avaliações:** Será disponibilizada a possibilidade do turista avaliar o parceiro, assim como o parceiro também poderá deixar avaliações do turista.
